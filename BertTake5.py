@@ -1,5 +1,6 @@
 ###
-# dont run on laptop... over 43 min/epoch!
+# dont run on laptop... over 43 min/epoch! (43*50)/(60*24) = 1.49 days..
+# try running on biowulf gpu nodes!
 
 import timeit
 import os
